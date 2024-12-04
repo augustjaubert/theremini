@@ -1,4 +1,7 @@
 (fp_lib_table
   (version 7)
-  (lib (name "VL53L0CXV0DH1")(type "KiCad")(uri "${KIPRJMOD}/libraries/VL53L0CXV0DH1/VL53L0CXV0DH1")(options "")(descr ""))
+  (lib (name "VL53L0CXV0DH1")(type "KiCad")(uri "/Users/augustjaubert/Downloads/theremini/libraries/VL53L0CXV0DH1/footprint")(options "")(descr ""))
+  (lib (name "NAU88C22YG")(type "KiCad")(uri "/Users/augustjaubert/Downloads/theremini/libraries/NAU88C22YG/footprint")(options "")(descr ""))
+  (lib (name "KLJ-01304T-08R07W")(type "KiCad")(uri "/Users/augustjaubert/Downloads/theremini/libraries/KLJ-01304T-08R07W/footprint")(options "")(descr ""))
+  (lib (name "PJ-327C-4A")(type "KiCad")(uri "/Users/augustjaubert/Downloads/theremini/libraries/PJ-327C-4A/footprint")(options "")(descr ""))
 )
