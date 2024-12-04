@@ -1,4 +1,4 @@
-(module "OPTO-SMD_12P_VL53L0CXV0DH-1" (layer F.Cu) (tedit 67508183)
+(module "OPTO-SMD_12P_VL53L0CXV0DH-1" (layer F.Cu) (tedit 6750C03B)
   (descr "OPTO-SMD_12P_VL53L0CXV0DH-1 footprint")
   (tags "OPTO-SMD_12P_VL53L0CXV0DH-1 footprint C91199")
   (attr smd)
@@ -37,7 +37,7 @@
   (fp_text user REF** (at 0 5.2762) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (model VL53L0CXV0DH1/VL53L0CXV0DH1/packages3d/OPTO-SMD_12P_VL53L0CXV0DH-1.step
+  (model VL53L0CXV0DH1/footprint/packages3d/OPTO-SMD_12P_VL53L0CXV0DH-1.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -90))

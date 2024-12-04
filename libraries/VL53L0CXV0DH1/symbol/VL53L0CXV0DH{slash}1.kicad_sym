@@ -6,7 +6,7 @@
     (property "Value" "VL53L0CXV0DH{slash}1" (id 1) (at 0 -2.54 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "VL53L0CXV0DH1:OPTO-SMD_12P_VL53L0CXV0DH-1" (id 2) (at 0 -10.16 0)
+    (property "Footprint" "footprint:OPTO-SMD_12P_VL53L0CXV0DH-1" (id 2) (at 0 -10.16 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
     (property "Datasheet" "https://item.szlcsc.com/92388.html" (id 3) (at -2.286 0.127 0)
