@@ -4,4 +4,5 @@
   (lib (name "NAU88C22YG")(type "KiCad")(uri "/Users/augustjaubert/Downloads/theremini/libraries/NAU88C22YG/footprint")(options "")(descr ""))
   (lib (name "KLJ-01304T-08R07W")(type "KiCad")(uri "/Users/augustjaubert/Downloads/theremini/libraries/KLJ-01304T-08R07W/footprint")(options "")(descr ""))
   (lib (name "PJ-327C-4A")(type "KiCad")(uri "/Users/augustjaubert/Downloads/theremini/libraries/PJ-327C-4A/footprint")(options "")(descr ""))
+  (lib (name "STM32L432KBU6TR")(type "KiCad")(uri "C:/Users/z0051zvs/Downloads/Personal/theremini/libraries/STM32L432KBU6TR/footprint")(options "")(descr ""))
 )
