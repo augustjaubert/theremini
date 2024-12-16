@@ -11,4 +11,5 @@
   (lib (name "OT32258MJBA4SL")(type "KiCad")(uri "${KIPRJMOD}/libraries/OT32258MJBA4SL/footprint")(options "")(descr ""))
   (lib (name "YTS1C0033BBG01")(type "KiCad")(uri "${KIPRJMOD}/libraries/YTS1C0033BBG01/footprint")(options "")(descr ""))
   (lib (name "TYPE-C16PIN")(type "KiCad")(uri "${KIPRJMOD}/libraries/TYPE-C16PIN/footprint")(options "")(descr ""))
+  (lib (name "TPS63051RMWR")(type "KiCad")(uri "${KIPRJMOD}/libraries/TPS63051RMWR/footprint")(options "")(descr ""))
 )
